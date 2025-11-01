@@ -103,7 +103,8 @@ Each line defines:
 ## 🧩 Sample Output
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/09bda990-c472-41c9-89a1-39878503b69b" width="420" alt="Mountain Scene Visualization"/>
+  <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/47dba3dc-07ad-4f00-97b2-b1fad4aade39" />
+
 </p>
 
 Each shape is drawn using its color, fill state, and coordinates. The image is then saved as a `.png` file via `ImageIO.write()`.
