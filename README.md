@@ -103,7 +103,7 @@ Each line defines:
 ## 🧩 Sample Output
 
 <p align="center">
-  <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/47dba3dc-07ad-4f00-97b2-b1fad4aade39" />
+  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/47dba3dc-07ad-4f00-97b2-b1fad4aade39" />
 
 </p>
 
