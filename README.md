@@ -1,7 +1,7 @@
 <!-- 🎨 Animated Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=800&lines=🎨+Inheritance+and+Shapes+Project;Object-Oriented+Design+in+Java;Polymorphism+%7C+Inheritance+%7C+JUnit+Testing+💻✨" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=800&lines=🎨+Game+Engine;Inheritance;Object-Oriented+Design+in+Java;Polymorphism+%7C+Inheritance+%7C+JUnit+Testing+💻✨" alt="Typing Animation" />
 </p>
 
 ---
